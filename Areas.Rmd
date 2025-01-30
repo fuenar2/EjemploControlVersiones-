@@ -25,3 +25,5 @@ AreaCuadrado = Lado^2
 ```
 
 # área del triangulo
+
+#Área del rectángulo
